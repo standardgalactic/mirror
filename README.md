@@ -1,5 +1,7 @@
 # Mirror
 
+![Enabled provider plugins](escalated-control.png)
+
 𝘌𝘹𝘤𝘦𝘳𝘱𝘵 𝘧𝘳𝘰𝘮 "𝘛𝘩𝘦 16 𝘓𝘢𝘸𝘴 𝘰𝘧 𝘙𝘰𝘣𝘰𝘵𝘪𝘤𝘴"
 
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
